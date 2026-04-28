@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /cart/
+Disallow: /checkout-2/
+Disallow: /my-account/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.ruirongbio.com/sitemap.xml

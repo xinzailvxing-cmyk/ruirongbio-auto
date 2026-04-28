@@ -1,0 +1,141 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/shop",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/chinese-tea",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/chinese-tea/green-tea",
+      "destination": "/products/green-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/chinese-tea/white-tea",
+      "destination": "/products/white-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/chinese-tea/black-tea",
+      "destination": "/products/black-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/chinese-tea/oolong-tea",
+      "destination": "/products/oolong-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/herbal-tea",
+      "destination": "/products/herbal-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/dried-fruit",
+      "destination": "/products/dried-fruits/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/spray-dried-fruit-powder",
+      "destination": "/products/fruit-powder/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/extract-powder",
+      "destination": "/products/extract-powder/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/spice",
+      "destination": "/products/herbal-tea/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/uncategorized",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/product/butterfly-pea-flower",
+      "destination": "/products/butterfly-pea-flower/",
+      "permanent": true
+    },
+    {
+      "source": "/product/dried-astragalus-slices-huang-qi",
+      "destination": "/products/dried-astragalus-slices/",
+      "permanent": true
+    },
+    {
+      "source": "/product/dried-marigold",
+      "destination": "/products/dried-calendula-flower/",
+      "permanent": true
+    },
+    {
+      "source": "/product/chamomile",
+      "destination": "/products/dried-chamomile/",
+      "permanent": true
+    },
+    {
+      "source": "/product/dried-jasmine-flower",
+      "destination": "/products/dried-jasmine-flower/",
+      "permanent": true
+    },
+    {
+      "source": "/product/dried-lavender",
+      "destination": "/products/dried-lavender/",
+      "permanent": true
+    },
+    {
+      "source": "/product/lime-slice",
+      "destination": "/products/dried-lime-slice/",
+      "permanent": true
+    },
+    {
+      "source": "/product/dried-grape-fruit-slice",
+      "destination": "/products/dried-grapefruit-slice/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/products/#request-quote",
+      "permanent": true
+    },
+    {
+      "source": "/news",
+      "destination": "/industry-news/",
+      "permanent": true
+    },
+    {
+      "source": "/industry-news.html",
+      "destination": "/industry-news/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cart",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/checkout-2",
+      "destination": "/products/#request-quote",
+      "permanent": true
+    },
+    {
+      "source": "/my-account",
+      "destination": "/products/",
+      "permanent": true
+    }
+  ]
+}
