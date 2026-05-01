@@ -108,6 +108,11 @@
       "permanent": true
     },
     {
+      "source": "/blog.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
       "source": "/news",
       "destination": "/industry-news/",
       "permanent": true
