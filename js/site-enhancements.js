@@ -222,7 +222,7 @@
       '<label for="rr-contact-documents">Required documents</label>' +
       '<input id="rr-contact-documents" name="requiredDocuments" type="text" maxlength="160" placeholder="COA, MSDS, TDS, pesticide test, packing photos...">' +
       "</div>" +
-      '<div class="rr-contact-field">' +
+      '<div class="rr-contact-field rr-contact-field-wide">' +
       '<label for="rr-contact-message">Message</label>' +
       '<textarea id="rr-contact-message" name="message" rows="5" maxlength="2400" placeholder="Tell us the specification, packing style, sample needs or quote details." required></textarea>' +
       "</div>" +
